@@ -1,0 +1,6 @@
+{
+  "name": "Lineare Algebra - Hochschul-Übungsplattform",
+  "description": "Interaktive Übungsplattform für Studierende zum Rechnen mit Vektoren und Matrizen inkl. Schritt-für-Schritt-Lösungen und SCORM-Moodle-Unterstützung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
